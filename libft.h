@@ -6,7 +6,7 @@
 /*   By: abziouzi <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/06/11 01:57:32 by abziouzi          #+#    #+#             */
-/*   Updated: 2022/06/19 09:17:26 by abziouzi         ###   ########.fr       */
+/*   Updated: 2022/06/21 04:37:18 by abziouzi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -25,6 +25,8 @@
 # include <sys/stat.h>
 # include <time.h>
 # include <unistd.h>
+
+# define LINES "-------------------------------------------------------------"
 
 typedef struct s_list
 {

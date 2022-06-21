@@ -6,12 +6,11 @@
 /*   By: abziouzi <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/06/14 05:33:07 by abziouzi          #+#    #+#             */
-/*   Updated: 2022/06/19 09:51:09 by abziouzi         ###   ########.fr       */
+/*   Updated: 2022/06/21 04:36:06 by abziouzi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
-#include "../so_long.h"
 
 void	ft_msg(char *msg)
 {
